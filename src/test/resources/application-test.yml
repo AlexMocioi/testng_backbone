@@ -1,0 +1,3 @@
+gateway:
+  api:
+    base_url: "http://localhost:8080"
